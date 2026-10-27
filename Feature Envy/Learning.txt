@@ -1,0 +1,1 @@
+Feature Envy is a code smell in which a method extensively uses another class's data and methods to perform its operations, indicating that some or all of the method's functionality should be moved to that class.
